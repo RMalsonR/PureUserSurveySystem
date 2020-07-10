@@ -1,0 +1,10 @@
+Django==2.2.10
+django-cors-headers==3.0.2
+django-filter==2.0.0
+djangorestframework==3.9.3
+djangorestframework-simplejwt==4.4.0
+PyJWT==1.7.1
+requests==2.19.1
+requests-oauthlib==1.0.0
+six==1.11.0
+pytz==2020.1
