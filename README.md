@@ -6,7 +6,7 @@ Installation:
 * Migrations:  
   * `python manage.py makemigrations core`
   * `python manage.py migrate`
-* CuperUser: `python manage.py createsuperuser`
+* SuperUser: `python manage.py createsuperuser`
   
 Using database: SQLite
 
